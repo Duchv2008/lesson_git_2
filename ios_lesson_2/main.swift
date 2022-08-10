@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+/// Học buổi 1
+struct Person {
+    var name: String?
+}
 
