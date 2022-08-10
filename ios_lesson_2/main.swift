@@ -12,3 +12,10 @@ struct Person {
     var name: String?
 }
 
+
+
+/// Học buổi 2
+struct Person2 {
+    var name: String?
+}
+
